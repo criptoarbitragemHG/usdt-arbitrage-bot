@@ -72,3 +72,5 @@ Diferença: ${percent.toFixed(2)}%`);
 
 setInterval(checkArbitrage, 30000);
 checkArbitrage();
+const TELEGRAM_TOKEN = '7876107067:AAH_GN1FwdUAwF1nuOmxzF17fyiUZpcGHao';
+const TELEGRAM_USER_ID = ' 996968304';
